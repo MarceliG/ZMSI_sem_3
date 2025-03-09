@@ -1,0 +1,7 @@
+fastai
+fastbook
+ipywidgets
+datasets
+matplotlib
+scikit-learn
+torch
